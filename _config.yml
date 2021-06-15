@@ -3,7 +3,7 @@ title: My Sophmore Ap Computer Science Webstie
 author: Aaditya Pemmaraju
 email: apemmaraju2@ebnet.org
 description: > This is a website about me and my brag sheet
-
+theme: minima
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
