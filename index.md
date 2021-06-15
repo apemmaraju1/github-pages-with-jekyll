@@ -10,4 +10,4 @@ I am in robotics club, chess club and many other clubs
 
 In 9th grade I was the environmental chair member for Youth Council board. 
 
-In 11th grade I am planning on playing Football because I love the sport and planning on doing a lot of clubs. 
+In 11th grade I am planning on playing Football because I love the sport and planning on doing a lot of clubs. I am also aiming to get the gold presidential award for volunteering because I love volunteering. 
