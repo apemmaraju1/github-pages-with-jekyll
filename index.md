@@ -6,7 +6,7 @@ title: " "
 
 My bragsheet: Well to start off I play the piano, I played the piano ever since I was about 4 years old but I seriously got into it every since I was 10. 
 
-I am in robotics club, chess club and many other clubs
+I won FCCLA Gold award , I am the Vice President of EHS , and chess club and many other clubs
 
 In 9th grade I was the environmental chair member for Youth Council board. 
 
